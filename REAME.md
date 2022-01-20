@@ -1,4 +1,5 @@
 ## NodeJS Project
+- Copy `.env.example` to `.env`
 - Uses ESLint for linting
 - Husky for pre commit
 - Mocha, Chai and supertest for testing
