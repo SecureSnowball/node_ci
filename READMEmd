@@ -1,3 +1,9 @@
+## NodeJS Development setup
+- This code has testing implemented that runs locally and on GitHub actions
+- Code linter/formatter that runs before every commit
+- VS Code extension recommendation
+- Testing setup
+
 ## NodeJS Project
 - Copy `.env.example` to `.env`
 - Uses ESLint for linting
